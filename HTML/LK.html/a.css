@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+body
+{
+background-image: linear-gradient(to top , rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./anu.jpeg);
+background-size: cover;
+}
